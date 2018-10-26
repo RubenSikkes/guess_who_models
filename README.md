@@ -1,4 +1,4 @@
-# Multi-label-Inception-net Image Classification
+# Multi-label-Inception-net Image Classification for the Big Data Expo 2018
 Modified `retrain.py` script to allow multi-label image classification using pretrained [Inception net](https://github.com/tensorflow/models/tree/master/research/inception).
 
 The `label_image.py` has also been slightly modified to write out the resulting class percentages into `results.txt`. 
